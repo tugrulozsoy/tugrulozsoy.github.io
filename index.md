@@ -11,4 +11,4 @@
 
 [DeepMetrica Payment Types and Methods Analysis](https://tugrulozsoy.github.io/Deep-Metrica-Product/blob/master/domains_egg.html)
 
-[DeepMetrica Payment Types and Methods Analysis](https://tugrulozsoy.github.io/master/DeepMetrica%20Payment%20Types%20and%20Methods%20Analysis.html)
+[DeepMetrica Payment Types and Methods Analysis](https://tugrulozsoy.github.io/DeepMetrica%20Payment%20Types%20and%20Methods%20Analysis.html)
