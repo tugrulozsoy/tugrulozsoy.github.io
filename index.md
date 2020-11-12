@@ -16,3 +16,5 @@
 [DeepMetrica Payment Types and Methods Analysis](https://tugrulozsoy.github.io/DeepMetrica_Payment_Types_and_Methods_Analysis.html)
 
 [Customer Segmentation](https://tugrulozsoy.github.io/customer_segmentation.html)
+
+[Start Date Analysis](https://tugrulozsoy.github.io/deepmetrica_start_date_analysis.html)
